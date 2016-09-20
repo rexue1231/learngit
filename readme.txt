@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is qiuck and simple...
 
 wirte from remote server
-test 
